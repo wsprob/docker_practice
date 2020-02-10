@@ -28,9 +28,11 @@ Docker 自身仍在快速发展中，生态环境也在蓬勃成长。建议初�
 
 ## 进阶学习
 《[Docker 技术入门与实战]》第三版已经面世，介绍最新的容器技术栈，欢迎大家阅读使用并反馈建议。
-[![](https://github.com/yeasy/docker_practice/raw/master/_images/docker_primer3.png)]
+[![](https://github.com/yeasy/docker_practice/raw/master/_images/docker_primer3.png)](https://union-click.jd.com/jdc?e=&p=AyIGZRtYFAcXBFIZWR0yEgRQH1kXAhs3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUBFwNXGVscMlVYLlAaXAV1Z1JHA0dWEHVXZTliY1QLWStaJQAWB10fXhwKEDdlG1wlUHzf462DsLMO0%2F%2BUjp2VIgZlG18RBBcCUBlbEAoTBWUcWxwySVI7HAhBBxEOBUgOFQYQUGUraxYyIjdVK1glQHxXUEhYEVEUUFQcC0IHGgRRSAgVARAPAhsLFgNCDl0ZWiUAEwZREg%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYEAYQBVUS)
 
 
 
-
+<p align="center">
+<img width="200" src="https://user-images.githubusercontent.com/16733187/57310918-3c3afd80-711d-11e9-8816-266e5ede70bb.jpg">
+</p>
 
