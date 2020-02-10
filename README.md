@@ -25,36 +25,6 @@ Docker 自身仍在快速发展中，生态环境也在蓬勃成长。建议初�
 * [修订记录](CHANGELOG.md)
 * [贡献者名单](https://github.com/yeasy/docker_practice/graphs/contributors)
 
-## 微信小程序
-
-<p align="center">
-<img width="200" src="https://user-images.githubusercontent.com/16733187/49682252-3ac4c500-faec-11e8-86ab-eafe0139be6b.jpg">
-</p>
-
-<p align="center"><strong>微信扫码 随时随地阅读~</strong></p>
-
-## 技术交流
-
-欢迎加入 Docker 技术交流 QQ 群，分享 Docker 资源，交流 Docker 技术。
-
-* QQ 群 I   （已满）：341410255
-* QQ 群 II  （已满）：419042067
-* QQ 群 III （已满）：210028779
-* QQ 群 IV  （已满）：483702734
-* QQ 群 V   （已满）：460598761
-* QQ 群 VI  （已满）：581983671
-* QQ 群 VII （已满）：252403484
-* QQ 群 VIII（已满）：544818750
-* QQ 群 IX  （已满）：571502246
-* QQ 群 X   （可加）：145983035
-
->如果有容器相关的疑问，请通过 [Issues](https://github.com/yeasy/docker_practice/issues/new/choose) 来提出。
-
-<p align="center">
-<img width="200" src="https://user-images.githubusercontent.com/16733187/65308302-55b87f80-dbbc-11e9-9d42-57eac554fb3b.jpg">
-</p>
-
-<p align="center"><strong>微信扫码 加入群聊~</strong></p>
 
 ## 进阶学习
 
