@@ -2,14 +2,6 @@
 
 [![](https://img.shields.io/github/stars/yeasy/docker_practice.svg?style=social&label=Stars)](https://github.com/yeasy/docker_practice) [![](https://travis-ci.org/yeasy/docker_practice.svg?branch=master)](https://travis-ci.org/yeasy/docker_practice) [![](https://img.shields.io/github/release/yeasy/docker_practice/all.svg)](https://github.com/yeasy/docker_practice/releases) [![](https://img.shields.io/badge/Based-Docker%20CE%20v19.x-blue.svg)](https://github.com/docker/docker-ce) [![](https://img.shields.io/badge/Docker%20%E6%8A%80%E6%9C%AF%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98-jd.com-red.svg)](https://union-click.jd.com/jdc?e=&p=AyIGZRtYFAcXBFIZWR0yEgRQH1kXAhs3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUBFwNXGVscMlVYLlAaXAV1Z1JHA0dWEHVXZTliY1QLWStaJQAWB10fXhwKEDdlG1wlUHzf462DsLMO0%2F%2BUjp2VIgZlG18RBBcCUBlbEAoTBWUcWxwySVI7HAhBBxEOBUgOFQYQUGUraxYyIjdVK1glQHxXUEhYEVEUUFQcC0IHGgRRSAgVARAPAhsLFgNCDl0ZWiUAEwZREg%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYEAYQBVUS)
 
-**v1.1.0**
-
-| 语言           | 构建状态   | - |
-| :------------- | :------------- | :--- |
-| [zh-hans](https://github.com/yeasy/docker_practice)        | [![](https://travis-ci.org/yeasy/docker_practice.svg?branch=master)](https://travis-ci.org/yeasy/docker_practice)| [阅读](https://docker_practice.gitee.io/zh-cn) |
-| [us-en](https://github.com/yeasy/docker_practice/tree/english)          | [![](https://travis-ci.org/yeasy/docker_practice.svg?branch=english)](https://travis-ci.org/yeasy/docker_practice)| [阅读](https://docker_practice.gitee.io/us-en) |
-| [zh-hant](https://github.com/yeasy/docker_practice/tree/zh-Hant)        | [![](https://travis-ci.org/yeasy/docker_practice.svg?branch=zh-hant)](https://travis-ci.org/yeasy/docker_practice)| [阅读](https://docker_practice.gitee.io/zh-hant) |
-
 [Docker](https://www.docker.com) 是个划时代的开源项目，它彻底释放了计算虚拟化的威力，极大提高了应用的维护效率，降低了云计算应用开发的成本！使用 Docker，可以让应用的部署、测试和分发都变得前所未有的高效和轻松！
 
 无论是应用开发者、运维人员、还是其他信息技术从业人员，都有必要认识和掌握 Docker，节约有限的生命。
