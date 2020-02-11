@@ -1,7 +1,5 @@
 # [Docker — 从入门到实践](https://github.com/yeasy/docker_practice/blob/master/SUMMARY.md)
 
-* [前言](README.md)
-* [修订记录](CHANGELOG.md)
 * [如何贡献](CONTRIBUTING.md)
 * [Docker 简介](introduction/README.md)
     * [什么是 Docker](introduction/what.md)
